@@ -47,7 +47,7 @@ To run this project:
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://https://github.com/naham6/FUTURE_ML_02.git](https://https://github.com/naham6/FUTURE_ML_02.git)
+    git clone [https://github.com/naham6/FUTURE_ML_02.git](https://github.com/naham6/FUTURE_ML_02.git)
     ```
 2.  **Install dependencies:**
     ```bash
