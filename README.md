@@ -1,7 +1,7 @@
 # 🎫 Automated IT Ticket Classification System
 
 An NLP-based machine learning project that automates the categorization and prioritization of IT support tickets. This system helps support teams categorize issues (e.g., Hardware, Access, HR) and assess urgency (High, Medium, Low) instantly.
-## [LIVE](tickettype.streamlit.app)
+## [LIVE](https://tickettype.streamlit.app)
 
 ## 🚀 Overview
 
